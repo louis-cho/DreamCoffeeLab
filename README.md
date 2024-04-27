@@ -9,11 +9,11 @@
 | 이름   | GitHub                                  | Email                 |
 | ------ | --------------------------------------- | --------------------- |
 | 조현우 | [GitHub](https://github.com/louis-cho)  | wizardchw0@gmail.com  |
-| 김다인 | [GitHub](#)                             | #                     |
+| 김다인 | GitHub                             | #                     |
 | 김신영 | [GitHub](https://github.com/kseenyoung) | kseenyoung@gmail.com  |
 | 서재화 | [GitHub](https://github.com/ggramgyo)   | woghk6761@pusan.ac.kr |
-| 신시원 | [GitHub](#)                             | #                     |
-| 이동재 | [GitHub](#)                             | #                     |
+| 신시원 | GitHub                          | #                     |
+| 이동재 | GitHub                             | #                     |
 
 ## 프로젝트 주요 기능 소개
 
